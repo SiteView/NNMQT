@@ -1,0 +1,12 @@
+    <ScanConfig>
+        <ScanDeep>5</ScanDeep>
+        <SynThreadCount>50</SynThreadCount>
+        <Retry>3</Retry>
+        <TimeOut>200</TimeOut>
+        <ScanRange/>
+        <ExcludeRange>1.1.1.1-1.1.1.254;192.168.3.1-192.168.3.254;192.168.4.1-192.168.4.254;</ExcludeRange>
+        <CommunityOfRange>192.168.0.248-192.168.0.248-siteview;192.168.0.251-192.168.0.251-siteview;</CommunityOfRange>
+        <DefaultCommunityGet>public</DefaultCommunityGet>
+        <DefaultCommunitySet>public</DefaultCommunitySet>
+        <Seeds>192.168.0.248;192.168.0.251;</Seeds>
+    </ScanConfig>

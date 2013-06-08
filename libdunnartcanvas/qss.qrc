@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>resources/qss/candy.qss</file>
+        <file>resources/images/button-pressed.png</file>
+        <file>resources/images/button.png</file>
+        <file>resources/images/button-hover.png</file>
+        <file>resources/images/background.png</file>
+        <file>resources/images/down-arrow.png</file>
+    </qresource>
+</RCC>

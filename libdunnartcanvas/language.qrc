@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>resources/language/NNM_EN.qm</file>
+        <file>resources/language/NNM_CN.qm</file>
+        <file>resources/language/qt_zh_CN.qm</file>
+    </qresource>
+</RCC>
